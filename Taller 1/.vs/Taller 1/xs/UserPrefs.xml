@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{04BB3A41-BC01-AC9C-46F5-5B960D429F8B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/ControlCharacter.cs">
+    <Files>
+      <File FileName="Assets/Scenes/ControlCharacter.cs" Line="13" Column="9" />
+      <File FileName="Assets/Scenes/Bala.cs" Line="5" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Taller 1" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="Scenes" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3d8e58c0-8605-49ec-9eff-7efe0d514b6a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
